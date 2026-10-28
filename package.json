@@ -1,0 +1,25 @@
+{
+  "name": "sabi",
+  "version": "1.0.0",
+  "description": "Telegram study buddy for JAMB/WAEC that pays for AI per question on Celo via buy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flames12th/Sabi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Flames12th/Sabi/issues"
+  },
+  "homepage": "https://github.com/Flames12th/Sabi#readme",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "grammy": "^1.46.0"
+  }
+}
